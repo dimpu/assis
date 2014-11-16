@@ -31,6 +31,7 @@ body{
   height: 100%;
   background:$gray-darker;
   background: image-url("login-box-bg.jpg");
+  background-image:inline-image("login-box-bg.jpg", 'image/jpg')
 }
 .logo{
   text-align:center;
