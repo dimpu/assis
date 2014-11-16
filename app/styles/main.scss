@@ -1,13 +1,6 @@
 $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
 // bower:scss
 @import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
-
-@import url("http://fonts.googleapis.com/css?family=Lobster");
-@import url("http://fonts.googleapis.com/css?family=Lato");
-@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css");
-@import url("http://www.justinaguilar.com/animations/css/animations.css");
-
-
 // endbower
 $gray-darker:  lighten(#000, 13.5%); // #222
 $gray-dark:    lighten(#000, 20%);   // #333
